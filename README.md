@@ -23,5 +23,27 @@ The RPG Adventure Game offers an immersive experience where players can explore 
 - **Progress:** Gain experience points and gold to improve your character.
 
 
+## Getting Started
 
+1. Clone the repository: `git clone https://github.com/Codebaddie5/rpg-adventure-game.git`
+2. Navigate to the project directory: `cd rpg-adventure-game`
+3. Open the `index.html` file in your web browser to start playing.
+
+## Game Mechanics
+
+- Use buttons to navigate between locations and make choices.
+- Manage your health, gold, and inventory wisely.
+- Battle monsters strategically using different weapons.
+
+## Contributing
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature-branch`
+3. Commit your changes: `git commit -m "Add new feature"`
+4. Push to the branch: `git push origin feature-branch`
+5. Create a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
